@@ -55,7 +55,7 @@ Ainda não me sinto confortavel com o que eu posso tornar realidade visto o meu 
 
 - Site - [Pablo Teixeira](https://pabloodev.github.io/portifolio-simplicado/ (projetos portifolio))
 
-- Frontend Mentor - [@pablodev](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@pablodev](https://www.frontendmentor.io/profile/Pabloodev)
 
 
 
