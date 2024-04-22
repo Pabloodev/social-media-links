@@ -13,7 +13,7 @@ Status do Projeto: ✔️ ⚠️ [Concluído]
 
 Liberei a documentação para quem tiver interesse, o site está bem responsivo a todas as telas.
 <br><br>
-link do projeto uppado em github pages: <a href="https://pabloodev.github.io/Social-media-links/">Site Social Media</a>
+link do projeto uppado em github pages: <a href="https://pabloodev.github.io/Social-media-links/" target="_blank">Site Social Media</a>
 
 
 <h3>Funcionalidades</h3>
